@@ -1,0 +1,23 @@
+.menu-position-1 {
+    width: 48%;
+}
+
+main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 20px !important;
+}
+
+h2 {
+    font-weight: bold !important;
+}
+
+.menu-img {
+    width: 80%;
+    height: 300px;
+    border-radius: 21px 21px 0 0;
+    overflow: hidden;
+}
